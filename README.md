@@ -6,6 +6,24 @@ I tried a few versions of keeping this data structured - say, in a spreadsheet o
 
 If you are already an Obsidian user, consider incorporating these steps to your daily journaling. If you are not an Obsidian user, I talk more about how I use Obsidian in [this blog series][dwf-obs].
 
+# Getting Started
+## For `git` Users
+```
+git clone https://github.com/infews/job_search_in_obsidian
+```
+
+## For Everyone Else
+
+Visit the [Releases](https://github.com/infews/job_search_in_obsidian/releases) page and download the zip file.
+
+## For Obsidian Users
+... and then open in Obsidian as a separate Vault.
+
+## For Everyone Else
+If you don't have Obsidian yet, the [Obsidian][obs] site can help you get started with the app. 
+
+If you would rather save Obsidian for another time, this Notebook is just a directory of text files that should be viewable in any text editor.
+
 # How to Navigate This Notebook
 
 - Read the [[Problems to Solve]] to understand the justification
