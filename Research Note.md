@@ -1,7 +1,3 @@
----
-aliases: "one note per role"
----
-
 # When Considering a Role
 
 1. Make a new Note
@@ -24,7 +20,7 @@ YMMV, so feel free to update the template.
 
 I use this note for _nearly_ every note I take about the company. I also link back to daily notes as needed.
 
-Make sure to use the Obsidian link to the [[Considering this Role]] note in your [[Kanban Board]].
+Make sure to use the Obsidian link to the [[Research Notes]] note in your [[Kanban Board]].
 
 ---
 [cb]: https://crunchbase.com

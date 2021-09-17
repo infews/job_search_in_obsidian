@@ -3,7 +3,7 @@ I use a Kanban board to track the status of the various jobs I've looked at and 
 I've iterated a bunch on this. I'm currently using 6 columns, moving Left to right:
 
 ## Considering
-These jobs look interesting enough that I've made [[Considering this Role|one note per role]]
+These jobs look interesting enough that I've made [[Research Notes|one note per role]]
 
 ## Applied
 "I have applied to this role"
@@ -46,7 +46,7 @@ stateDiagram-v2
 ```
 
 
-Whatever you use for this [kanban board][boards], I use an Obsidian link from the board back to the [[Considering this Role|one note per role]] (Obsidian links to a file in this notebook is on the "kebab" details menu on the top right).
+Whatever you use for this [kanban board][boards], I use an Obsidian link from the board back to the [[Research Notes|one note per role]] (Obsidian links to a file in this notebook is on the "kebab" details menu on the top right).
 
 ---
 [boards]: https://www.google.com/search?q=online+kanban+board

@@ -27,7 +27,9 @@ Keeping track of all of these documents needed some management.
 ## Notes During Interviews
 A job interview involves many discussions with people. I wanted to have good notes from all of these discussions to help me during the process. 
 
-I wanted to be able to search those notes, find patterns, and cross-link them to aid in the decisions.
+I wanted to be able to:
+- Review the history of interactions with a company about the roles
+- Search all the notes to find patterns
 
 ## Which Job Sites Are Valuable?
 There are a bundle of job sites. Should I use them all? Were some of them better than others?
