@@ -15,7 +15,8 @@
 
 # Notes
 
-# Application
+# Timeline
+- [[{{date}}]] Research
 
 ---
 #jobsearch 
